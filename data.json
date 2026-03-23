@@ -1,0 +1,103 @@
+{
+  "name": "Sahil Singh",
+  "title": "Full Stack Developer",
+  "tagline": "Building scalable, high-performance web applications with Angular, Node.js, Django & Python",
+  "email": "Sahilsingh56.ss@gmail.com",
+  "phone": "+91 9953451414",
+  "location": "Delhi, India",
+  "linkedin": "https://linkedin.com/in/sahil-singh-582766185",
+  "github": "https://github.com/Sahilalpha11",
+  "resumeFile": "Sahil-Singh-FSDD-20250420.pdf",
+
+  "about": "A results-driven Full Stack Developer with hands-on experience in building scalable, high-performance web applications using Angular, Node.js, Express.js, and Django. Proficient in Python with strong knowledge of Django REST Framework, RESTful API design, and backend development. Passionate about optimizing Core Web Vitals, improving UI/UX, and delivering business-focused solutions in agile teams.",
+
+  "skills": {
+    "Frontend": ["Angular", "React", "HTML", "CSS", "SCSS", "JavaScript", "TypeScript", "Bootstrap", "RxJS"],
+    "Backend & Languages": ["Node.js", "Express.js", "Django", "Django REST Framework", "Python", "C/C++", "Kotlin"],
+    "Databases & APIs": ["MySQL", "MongoDB", "Django ORM", "REST APIs", "Postman"],
+    "Version Control": ["Git", "GitHub", "GitHub Copilot"],
+    "Testing & QA": ["Jasmine", "Karma", "API Testing"],
+    "Cloud & DevOps": ["AWS", "Visual Studio", "Lighthouse"],
+    "Practices": ["DSA", "Design Patterns", "Multithreading", "Agile"],
+    "Performance & Emerging Tech": ["Core Web Vitals", "GenAI"]
+  },
+
+  "experience": [
+    {
+      "role": "Packaged App Development Analyst",
+      "company": "Accenture",
+      "period": "Mar 2025 – Present",
+      "highlights": [
+        "Leading development of an AI-project dashboard using Angular (frontend) and Node.js (backend APIs).",
+        "Designed and implemented RESTful APIs to support dynamic dashboard features and user interactions.",
+        "Integrated backend services with frontend components for a seamless, responsive user experience.",
+        "Collaborated across teams to ensure scalability, performance, and maintainability of AI-driven components."
+      ]
+    },
+    {
+      "role": "Packaged App Development Associate",
+      "company": "Accenture",
+      "period": "Oct 2023 – Feb 2025",
+      "highlights": [
+        "Developed and optimized search/browse functionalities using Angular; migrated search vendor with zero impact.",
+        "Built and maintained backend APIs using Django & DRF — authentication, CRUD operations, data validations.",
+        "Implemented SSR and CSR using Angular + Express.js to improve performance.",
+        "Acted as POC for Angular unit testing, ensuring code quality with Jasmine and Karma.",
+        "Customized Django Admin for internal business use with filters, actions, and custom dashboards.",
+        "Enhanced frontend performance by refactoring CSS/components and optimizing Core Web Vitals."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "B.Tech Computer Science",
+      "score": "88.9%",
+      "institution": "Technocrats Institute of Technology, Bhopal",
+      "period": "2019 – 2023",
+      "location": "Bhopal, MP"
+    },
+    {
+      "degree": "Intermediate",
+      "score": "73.4%",
+      "institution": "Govt. Boys Sr. Sec. School, Janakpuri",
+      "period": "2015 – 2017",
+      "location": "Janakpuri, Delhi"
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Pizzeria — The Pizza App",
+      "description": "A full-stack pizza ordering web application with interactive UI, order management, cart, billing, venue browsing, and secure authentication.",
+      "techStack": ["Angular", "Express.js", "MongoDB", "Node.js"],
+      "highlights": [
+        "Built a scalable backend with Express.js for efficient order management and user authentication.",
+        "Implemented MongoDB for data storage — user accounts, orders, and venue information.",
+        "Designed cart management, billing, venue browsing, and secure sign-in features.",
+        "Followed MEAN stack architecture focusing on performance and maintainability."
+      ],
+      "repoUrl": "https://github.com/Sahilalpha11/Pizzeria",
+      "liveUrl": ""
+    },
+    {
+      "name": "Smart Vehicle Management System",
+      "description": "A smart vehicle parking management system with real-time tracking, vehicle registration, and user management through a graphical interface.",
+      "techStack": ["Python", "MySQL", "Tkinter"],
+      "highlights": [
+        "Developed a user-friendly graphical interface using Python libraries.",
+        "Implemented MySQL for efficient and secure storage/retrieval of vehicle and parking data.",
+        "Designed real-time parking space tracking, vehicle registration, and user management features."
+      ],
+      "repoUrl": "https://github.com/Sahilalpha11/Smart-Vehicle-Management-System",
+      "liveUrl": ""
+    }
+  ],
+
+  "certificates": [
+    {
+      "name": "Python Completion Certificate",
+      "issuer": "LinkedIn"
+    }
+  ]
+}
